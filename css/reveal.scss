@@ -509,7 +509,7 @@ $controlsArrowAngleActive: 36deg;
 .reveal .progress {
 	position: absolute;
 	display: none;
-	height: 3px;
+	height: 15px;
 	width: 100%;
 	bottom: 0;
 	left: 0;
@@ -522,7 +522,7 @@ $controlsArrowAngleActive: 36deg;
 		content: '';
 		display: block;
 		position: absolute;
-		height: 10px;
+		height: 15px;
 		width: 100%;
 		top: -10px;
 	}
